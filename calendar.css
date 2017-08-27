@@ -1,0 +1,169 @@
+	.arrows{
+	    color: white;
+	    text-decoration: none;
+		font-size:70px !important;	
+	}
+	
+	.month{
+		width:500px;
+		height:500px;
+		margin:10px auto;
+	}
+	
+	.month_head{
+		font-size:40px !important;
+		width:100%;
+		height:20%;
+		margin:auto;
+		color:white;
+		font-family: 'Lobster';	
+	}
+	
+	.month_grid{
+		width:100%;
+		height:70%;
+		margin: auto;
+		
+	}
+	.month_grid th{
+		background-color:lightblue;
+		font-family: 'Pirata One';
+		font-size:20px !important;
+	}
+	.month_grid td{
+		font-size:30px !important;
+		text-align: center;
+		font-family: 'Gloria Hallelujah';
+	}
+	
+	.jan{
+		background: url("images/jan.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:dotted lightblue;
+	}
+	
+	.jan_head{
+		background-color:navy;
+	}
+	
+	.feb{
+		background: url("images/feb.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:solid lightblue;");
+		background-size: 100% 100%;
+		color:red;
+		border:solid green;
+	}
+	.feb_head{
+		background-color:blue;
+		color:navy;
+	}
+	
+	.march{
+		background:url("images/march.jpg");
+		background-size: 100% 100%;
+		color:purple;
+		border:dashed purple;
+	}
+	
+	.march_head{
+		background-color:green;
+		color:pink;
+	}
+	.april{
+		background:url("images/april.gif");
+		background-size: 100% 100%;
+		color:yellow;
+		border:double pink;
+	}
+	.april_head{
+		background-color: seagreen;
+		color:darkslategrey;
+	}
+	.may{
+		background:url("images/may.jpg");
+		background-size: 100% 100%;
+		color:navy;
+		border:solid salmon;
+	}
+	.may_head{
+		background-color: limegreen;
+		color:magenta;
+	}
+	
+	.june{
+		background: url("images/june.jpg");
+		background-size: 100% 100%;
+		color:greenyellow;
+		border:outset yellowgreen;
+	}
+	.june_head{
+		background-color:yellow;
+		color:purple;
+	}
+	.july{
+		background: url("images/july.jpg");
+		background-size: 100% 100%;
+		color:indigo;
+		border:inset aqua;
+	}
+	.july_head{
+		background-color:gold;
+		color:blue;
+	}
+	.august{
+		background: url("images/aug.jpg");
+		background-size: 100% 100%;
+		color:fuchsia;
+		border:dotted brown;
+	}
+	.august_head{
+		background-color:coral;
+		color:blueviolet;
+	}
+	.sept{
+		background:
+		url("images/sep.jpg");
+		background-size: 100% 100%;
+		color:yellow;
+		border:solid yellow;
+	}
+	.sept_head{
+		background-color:red;
+		color:wheat;
+	}
+	.oct{
+		background:
+		url("images/oct.jpg");
+		background-size: 100% 100%;
+		color:white;
+		border:outset darkred;
+	}
+	.oct_head{
+		background-color:orangered;
+		color:black;
+	}
+	.nov{
+		background:
+		url("images/nov.jpg");
+		background-size: 100% 100%;
+		color:cyan;
+		border:double deeppink;
+	}
+	.nov_head{
+		background-color:orange;
+		color:deeppink;
+	}
+	.dec{
+		background:
+		url("images/dec.jpg");
+		background-size: 100% 100%;
+		color:green;
+		border:dotted green;
+	}
+	.dec_head{
+		background-color:cornflowerblue;
+		color:crimson;
+	}
